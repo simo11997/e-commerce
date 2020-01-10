@@ -1,0 +1,65 @@
+/*!
+ * Bootstrap Reboot v4.3.1 (https://getbootstrap.com/)
+ * Copyright 2011-2019 The Bootstrap Authors
+ * Copyright 2011-2019 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Forked from Normalize.css, licensed MIT (https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
+ */
+ 
+.div{
+
+  margin-top: 10px;
+}
+.sidebar{
+
+margin-top: 30px;
+background-color: #3399ff;
+float:right;
+width: 683px;
+height: 900px;
+margin-right: 1px;
+
+}
+
+.sidebar h3{
+
+color: white;
+text-align: center;
+transform-style: 
+
+}
+
+.footer{
+
+background-color:#3399ff;
+
+}
+
+ header h1{
+margin-left:20px;
+
+ }
+ .menu {
+
+  margin-left:-37px;
+
+ }
+ .menu li {
+
+  display: inline;
+
+ }
+ .menu li a{
+
+  margin-right:-2px;
+  padding: 18px 95px;
+  background-color:#3399ff;
+  color: white;
+
+ }
+ .menu li a:hover{
+
+background-color:#0066cc;
+
+ }
+
